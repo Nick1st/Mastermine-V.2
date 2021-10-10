@@ -28,7 +28,7 @@ use_chunky_turtles = true
 --     too close means less chance of finding
 --     ore veins, too far means longer commute
 --     times for turtles.
-grid_width = 8
+grid_width = 2
 
 
 -- MAXIMUM MINING AMOUNT PER TRIP
